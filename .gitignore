@@ -1,0 +1,8 @@
+reportes/
+temporales/
+archivos/
+evidencias/
+*.bak
+*.log
+*.tmp
+.env
